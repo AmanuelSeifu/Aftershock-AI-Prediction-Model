@@ -4,7 +4,7 @@ be followed by an aftershock within 24-48 hours. The results varied between 92 a
 based on the data sets that were used. The csv data (which was much simpler and more direct) was the more
 accurate data set with the waveform graph data (from the API) not being too far behind.
 
-![alt text](../accuracy.png)
-![alt text](../graphs1.png)
-![alt text](../graphs2.png)
-![alt text](../graphs3.png)
+![alt text](./accuracy.png)
+![alt text](./graphs1.png)
+![alt text](./graphs2.png)
+![alt text](./graphs3.png)
