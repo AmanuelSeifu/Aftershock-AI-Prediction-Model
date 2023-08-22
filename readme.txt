@@ -1,1 +1,1 @@
-hi
+This project uses federal csv data and a public seismological data API in addition to tensor flow to graph earthquake data, decypher aftershocks in the data, and to predict if an earthquake will be followed by an aftershock within 24-48 hours. The results varied between 86 and 96 percent accuracy based on the data sets that were used. The csv data (which was much simpler and more direct) was more accurate as expected.
