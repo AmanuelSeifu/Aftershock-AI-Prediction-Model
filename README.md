@@ -10,8 +10,9 @@ accurate data set with the normalized waveform graph data (from the API) not bei
 
 
 
-![alt text](./acc2.PNG)
-Waveform Data Model
+|![alt text](./acc2.PNG)|
+|:--:| 
+|Waveform Data Model|
 
 
 ![alt text](./graphs1.PNG)
