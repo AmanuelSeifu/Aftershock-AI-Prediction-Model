@@ -5,7 +5,7 @@ based on the data sets that were used. The csv data (which was much simpler and 
 accurate data set with the waveform graph data (from the API) not being too far behind.
 
 ![alt text](./accuracy.PNG)
-
+![alt text](./acc.PNG)
 
 ![alt text](./graphs1.PNG)
 ![alt text](./graphs2.PNG)
