@@ -7,8 +7,10 @@ accurate data set with the normalized waveform graph data (from the API) not bei
 CSV Data Model:
 ![alt text](./accuracy.PNG)
 
+
 Waveform Data Model:
 ![alt text](./acc2.PNG)
+
 
 ![alt text](./graphs1.PNG)
 ![alt text](./graphs2.PNG)
