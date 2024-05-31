@@ -1,4 +1,4 @@
-#The Results
+# The Results
 
 This python project uses federal csv data and a public seismological data API in addition to tensor flow
 to graph earthquake data, decypher aftershocks in the data, and to predict if an earthquake will
