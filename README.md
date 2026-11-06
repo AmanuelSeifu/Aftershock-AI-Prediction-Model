@@ -7,11 +7,13 @@ based on the data sets that were used. The csv data (which was much simpler and 
 accurate data set with the normalized waveform graph data (from the API) not being too far behind.
 
 ## CSV Data Model
+|![alt text](./CSV_ex.jpg)|
 |![alt text](./accuracy.PNG)|
 |:--:| 
 
 
 ## Waveform Data Model
+|![alt text](./Waveform_ex.png)|
 |![alt text](./acc2.PNG)|
 |:--:| 
 
