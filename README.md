@@ -1,6 +1,6 @@
 # The Results
 
-This python project uses federal csv data (USGS) and a public seismological data API (Iris Federator) in addition to tensor flow
+This python project uses federal csv data (U.S. Geological Survey) and a public seismological data API (Iris Federator) in addition to tensor flow
 to graph earthquake data, decypher aftershocks in the data, and to predict if an earthquake will
 be followed by an aftershock within 24-48 hours. 
 
