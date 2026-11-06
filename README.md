@@ -16,8 +16,9 @@ accurate data set with the normalized waveform graph data (from the API) not bei
 
 
 ## Waveform Data Model
-![alt text](./Waveform_ex.png)
-*Credit: USGS (U.S. Geological Survey)*
+|![alt text](./Waveform_ex.png)|
+|:--:| 
+|*Credit: USGS (U.S. Geological Survey)*|
 
 |![alt text](./acc2.PNG)|
 |:--:| 
