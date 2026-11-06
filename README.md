@@ -1,9 +1,12 @@
 # The Results
 
+This project's goal was to create a machine learning model that could predict if an aftershock would occur shortly after an earthquake. The neural-network used
+for the project will be TensorFlow, and the data used for training/testing will be an assortment of quantitative, qualitive, and waveform seismological data. 
+
 This python project uses federal csv data (U.S. Geological Survey) and a public seismological data API (Iris Federator) in addition to TensorFlow
 to graph earthquake data, algorithmically extract aftershocks in the data, and to predict if an earthquake will be followed by an aftershock within 24-48 hours. 
 
-The results varied between 92 and 94 percent accuracy based on the data sets that were used. The csv data (which was simpler and had a wider breadth of data)
+The results varied between 92 and 94 percent accuracy based on the data sets that were used. The csv data (which was simpler and had a wider breadth of info)
 was the more accurate data set with the normalized waveform graph data (from the API) not being too far behind.
 
 ## CSV Data Model
